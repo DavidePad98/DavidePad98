@@ -2,8 +2,6 @@
 
 ## 💻 Tech Stack:
 
-Here are the technologies I'm familiar with:
-
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](URL_HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](URL_CSS3)
 [![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white)](URL_SASS)
